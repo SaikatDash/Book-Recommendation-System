@@ -1,4 +1,4 @@
-Book Recommendation System | Machine Learning Project
+Book Recommendation System
 📌 Project Overview
 Developed a hybrid book recommendation system combining collaborative filtering and content-based filtering techniques to provide personalized book suggestions. The system analyzes user preferences and book metadata to generate accurate recommendations, improving user engagement and discovery of new books.
 
